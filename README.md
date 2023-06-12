@@ -15,3 +15,7 @@ Required Libraries:
 Assembly was carried out using [SharpDevelop](http://www.icsharpcode.net/OpenSource/SD/Default.aspx) 4.4.2
 
 icons from https://github.com/SuperNETorg/KomodoPaperWalletGenerator
+
+---
+
+[![udocs](https://github.com/Sagleft/ures/blob/master/udocs-btn.png?raw=true)](https://udocs.gitbook.io/utopia-api/)
